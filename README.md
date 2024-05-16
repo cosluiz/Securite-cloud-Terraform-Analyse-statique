@@ -1,4 +1,4 @@
-# Assurant la sécurité dans le Cloud avec TFSec : Analyse automatique des vulnérabilités Terraform dans le pipeline CI/CD avec GitHub Actions.
+# Priorisant la Sécurité dans le Cloud avec TFSec : Analyse Automatisée des Vulnérabilités Terraform dans le Pipeline CI/CD avec GitHub Actions.
 
 Cet article a pour objectif d'automatiser l'analyse du code Terraform et est structuré comme suit :
 - Une brève explication de TFSec, GitHub Actions et Terraform.
