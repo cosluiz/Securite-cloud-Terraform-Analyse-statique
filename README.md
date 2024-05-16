@@ -61,13 +61,14 @@ Utiliser TFSec comme partie intégrante du processus de développement et de dé
 - **AWS (Amazon Web Services)** : Plateforme de cloud computing pour l'hébergement et la gestion d'applications.
 - **TFSec** :
 
-## Como Contribuir
-Se você deseja contribuir com este projeto, siga estas etapas:
-1. Fork este repositório.
-2. Crie uma nova branch (`git checkout -b feature/nova-feature`).
-3. Faça commit de suas alterações (`git commit -am 'Adicione uma nova feature'`).
-4. Faça push para a branch (`git push origin feature/nova-feature`).
-5. Crie um novo Pull Request.
+## Comment Contribuer
+Si vous souhaitez contribuer à ce projet, suivez ces étapes :
+
+1. Forkez ce dépôt.
+2. Créez une nouvelle branche (`git checkout -b feature/nouvelle-fonctionnalité`).
+3. Effectuez vos modifications (`git commit -am 'Ajoutez une nouvelle fonctionnalité'`).
+4. Poussez vers la branche (`git push origin feature/nouvelle-fonctionnalité`).
+5. Créez une nouvelle Pull Request.
 
 
 ## Structure des Répertoires
