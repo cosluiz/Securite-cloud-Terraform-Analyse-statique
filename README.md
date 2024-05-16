@@ -4,6 +4,7 @@ Cet article a pour objectif d'automatiser l'analyse du code Terraform et est str
 - Une brève explication de TFSec, GitHub Actions et Terraform.
 - CI/CD déployé pour recevoir et effectuer l'analyse.
 - Ajouter les éléments IaC est proposé comme une continuité.
+- Les informations d'accès spécifiques au fournisseur de services cloud sont saisies dans Paramètres > Secrets et variables > Actions.
 
 
 
