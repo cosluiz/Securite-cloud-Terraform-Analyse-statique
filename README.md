@@ -6,7 +6,6 @@ Cet article a pour objectif d'automatiser l'analyse du code Terraform et est str
 - Ajouter les éléments IaC est proposé comme une continuité.
 
 
-## Objectifs
 
 
 ## Vue d'ensemble
