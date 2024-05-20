@@ -23,7 +23,7 @@ La sécurité de l'information est fondamentale dans tout environnement technolo
 - Détection et réponse aux menaces
 - Résilience et continuité des activités
 
-Par conséquent, ce projet consiste en une analyse automatique des déclarations IaC pour AWS afin de trouver des vulnérabilités à corriger. De plus, cette analyse suggère des bonnes pratiques dans la provision des éléments d'infrastructure déclarés.
+Par conséquent, ce projet consiste en une analyse automatique des déclarations IaC (Infrastructure as Code) pour AWS afin de trouver des vulnérabilités à corriger. De plus, cette analyse suggère des bonnes pratiques dans la provision des éléments d'infrastructure déclarés.
 
 ## IaC: Concept et outil
 Infrastructure as Code. C'est, comme son nom l'indique, la gestion et le provisionnement de l'infrastructure à travers du code. Cette action remplace les processus manuels. Terraform est l'un des outils disponibles pour l'IaC.
