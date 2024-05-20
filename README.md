@@ -26,7 +26,7 @@ La sécurité de l'information est fondamentale dans tout environnement technolo
 Par conséquent, ce projet consiste en une analyse automatique des déclarations IaC pour AWS afin de trouver des vulnérabilités à corriger. De plus, cette analyse suggère des bonnes pratiques dans la provision des éléments d'infrastructure déclarés.
 
 ## IaC: Concept et outil
-Infrastructure as Code ou Infraestrutura como Código. C'est, comme son nom l'indique, la gestion et le provisionnement de l'infrastructure à travers du code. Cette action remplace les processus manuels. Terraform est l'un des outils disponibles pour l'IaC.
+Infrastructure as Code. C'est, comme son nom l'indique, la gestion et le provisionnement de l'infrastructure à travers du code. Cette action remplace les processus manuels. Terraform est l'un des outils disponibles pour l'IaC.
 
 Terraform est un outil conçu pour construire, modifier et versionner l'infrastructure. Par conséquent, ce n'est ni un langage ni un framework, mais plutôt une ressource utilisée dans le cadre du DevOps pour garantir plus d'agilité et de sécurité dans les déploiements.
 
